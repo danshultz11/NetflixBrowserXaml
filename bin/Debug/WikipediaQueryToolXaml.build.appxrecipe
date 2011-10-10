@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JOHNWIN8PREVIEW</Machine>
+    <WindowsUser>jnasty30</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\WikipediaQueryToolXaml\WikipediaQueryToolXaml\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <Modified>2011-10-07T13:50:43.478</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\WikipediaQueryToolXaml\WikipediaQueryToolXaml\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2011-10-07T15:37:25.386</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\WikipediaQueryToolXaml\WikipediaQueryToolXaml\bin\Debug\CollectionPage.xaml">
+      <PackagePath>CollectionPage.xaml</PackagePath>
+      <Modified>2011-10-07T15:46:59.333</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\WikipediaQueryToolXaml\WikipediaQueryToolXaml\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2011-10-07T16:49:49.951</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\WikipediaQueryToolXaml\WikipediaQueryToolXaml\bin\Debug\SplitPage.xaml">
+      <PackagePath>SplitPage.xaml</PackagePath>
+      <Modified>2011-10-07T16:49:42.252</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\WikipediaQueryToolXaml\WikipediaQueryToolXaml\bin\Debug\wikipediaquerytoolxaml.exe">
+      <PackagePath>wikipediaquerytoolxaml.exe</PackagePath>
+      <Modified>2011-10-07T16:49:49.831</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\WikipediaQueryToolXaml\WikipediaQueryToolXaml\Images\Logo.png">
+      <PackagePath>Images\Logo.png</PackagePath>
+      <Modified>2011-10-07T10:07:04.002</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\WikipediaQueryToolXaml\WikipediaQueryToolXaml\Images\SmallLogo.png">
+      <PackagePath>Images\SmallLogo.png</PackagePath>
+      <Modified>2011-10-07T10:07:04.049</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\WikipediaQueryToolXaml\WikipediaQueryToolXaml\Images\SplashScreen.png">
+      <PackagePath>Images\SplashScreen.png</PackagePath>
+      <Modified>2011-10-07T10:07:04.111</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\WikipediaQueryToolXaml\WikipediaQueryToolXaml\Images\StoreLogo.png">
+      <PackagePath>Images\StoreLogo.png</PackagePath>
+      <Modified>2011-10-07T10:07:04.143</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\WikipediaQueryToolXaml\WikipediaQueryToolXaml\obj\Debug\wikipediaquerytoolxaml.pdb">
+      <PackagePath>wikipediaquerytoolxaml.pdb</PackagePath>
+      <Modified>2011-10-07T16:49:49.799</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\WikipediaQueryToolXaml\WikipediaQueryToolXaml\SampleData\Images\DarkGray.png">
+      <PackagePath>SampleData\Images\DarkGray.png</PackagePath>
+      <Modified>2011-10-07T10:07:05.110</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\WikipediaQueryToolXaml\WikipediaQueryToolXaml\SampleData\Images\LightGray.png">
+      <PackagePath>SampleData\Images\LightGray.png</PackagePath>
+      <Modified>2011-10-07T10:07:05.125</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\jnasty30\Documents\Visual Studio 11\Projects\WikipediaQueryToolXaml\WikipediaQueryToolXaml\SampleData\Images\MediumGray.png">
+      <PackagePath>SampleData\Images\MediumGray.png</PackagePath>
+      <Modified>2011-10-07T10:07:05.157</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.VisualBasic.Activities.Compiler.dll">
+      <PackagePath>Microsoft.VisualBasic.Activities.Compiler.dll</PackagePath>
+      <Modified>2011-08-10T18:25:44.819</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.Data.dll">
+      <PackagePath>System.Data.dll</PackagePath>
+      <Modified>2011-08-10T18:25:47.237</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.Data.OracleClient.dll">
+      <PackagePath>System.Data.OracleClient.dll</PackagePath>
+      <Modified>2011-08-10T18:26:15.770</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.EnterpriseServices.dll">
+      <PackagePath>System.EnterpriseServices.dll</PackagePath>
+      <Modified>2011-08-10T18:25:47.705</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.EnterpriseServices.Wrapper.dll">
+      <PackagePath>System.EnterpriseServices.Wrapper.dll</PackagePath>
+      <Modified>2011-08-10T18:25:47.736</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.Transactions.dll">
+      <PackagePath>System.Transactions.dll</PackagePath>
+      <Modified>2011-08-10T18:25:48.454</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.Web.dll">
+      <PackagePath>System.Web.dll</PackagePath>
+      <Modified>2011-08-10T18:26:16.253</Modified>
+    </AppXPackagedFile>
+  </ItemGroup>
+</Project>
